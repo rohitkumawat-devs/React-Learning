@@ -1,0 +1,31 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+  color: aliceblue;
+}
+
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+}
+
+.card{
+  background-color: rgb(160, 14, 14);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav{
+  background-color: rgb(1, 40, 53);
+  padding: 2px;
+  margin: 5px;
+
+}

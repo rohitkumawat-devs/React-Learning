@@ -1,0 +1,51 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+  color: aliceblue;
+
+}
+
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+}
+.parent{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card{
+    width: 200px;
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #222; 
+}
+.card p{
+    margin: 20px 0px;
+}
+
+.card button{
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+}
+
+img{
+    height: 160px;
+    width: 160px;
+    border-radius: 5px;
+    object-fit: cover;
+
+}
