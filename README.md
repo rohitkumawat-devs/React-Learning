@@ -12,13 +12,13 @@ This repository documents my journey of learning React through hands-on coding, 
 
 | Status | Chapter |
 |:------:|---------|
-| ⏳ | Introduction |
-| ⏳ | React Overview |
-| ⏳ | Import & Export |
-| ⏳ | Real DOM vs Virtual DOM |
-| ⏳ | Setting Up React with Vite |
-| ⏳ | Components |
-| ⏳ | Props |
+| ✅ | Introduction |
+| ✅ | React Overview |
+| ✅ | Import & Export |
+| ✅ | Real DOM vs Virtual DOM |
+| ✅ | Setting Up React with Vite |
+| ✅ | Components |
+| ✅ | Props |
 | ⏳ | Mini Projects using Props |
 | ⏳ | Styling with CSS |
 | ⏳ | Intro to Tailwind CSS |
