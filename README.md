@@ -19,7 +19,7 @@ This repository documents my journey of learning React through hands-on coding, 
 | ✅ | Setting Up React with Vite |
 | ✅ | Components |
 | ✅ | Props |
-| ⏳ | Mini Projects using Props |
+| ✅ | Mini Projects using Props |
 | ⏳ | Styling with CSS |
 | ⏳ | Intro to Tailwind CSS |
 | ⏳ | UI Design Project |
