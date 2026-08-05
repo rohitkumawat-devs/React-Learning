@@ -20,9 +20,9 @@ This repository documents my journey of learning React through hands-on coding, 
 | ✅ | Components |
 | ✅ | Props |
 | ✅ | Mini Projects using Props |
-| ⏳ | Styling with CSS |
-| ⏳ | Intro to Tailwind CSS |
-| ⏳ | UI Design Project |
+| ✅ | Styling with CSS |
+| ✅ | Intro to Tailwind CSS |
+| ✅ | UI Design Project |
 | ⏳ | Working with Functions |
 | ⏳ | Understanding Hooks |
 | ⏳ | Advanced State Management |

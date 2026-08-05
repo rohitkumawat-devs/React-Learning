@@ -1,0 +1,17 @@
+.header{
+    background:linear-gradient(blue,yellow,pink);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.btn{
+    background-color: black;
+    color: aliceblue;
+    font-weight: bold ;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
