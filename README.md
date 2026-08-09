@@ -25,7 +25,7 @@ This repository documents my journey of learning React through hands-on coding, 
 | ✅ | UI Design Project |
 | ✅ | Working with Functions |
 | ✅ | Understanding Hooks |
-| ⏳ | Advanced State Management |
+| ✅ | Advanced State Management |
 | ⏳ | Form Handling |
 | ⏳ | Two-Way Data Binding |
 | ⏳ | Notes App Project |
