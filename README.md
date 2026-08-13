@@ -28,7 +28,7 @@ This repository documents my journey of learning React through hands-on coding, 
 | ✅ | Advanced State Management |
 | ✅ | Form Handling |
 | ✅ | Two-Way Data Binding |
-| ⏳ | Notes App Project |
+| ✅ | Notes App Project |
 | ⏳ | Using Local Storage |
 | ⏳ | API Calls in React |
 | ⏳ | useEffect Hook |
