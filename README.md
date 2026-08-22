@@ -31,7 +31,7 @@ This repository documents my journey of learning React through hands-on coding, 
 | ✅ | Notes App Project |
 | ✅ | Using Local Storage |
 | ✅ | API Calls in React |
-| ⏳ | useEffect Hook |
+| ✅ | useEffect Hook |
 | ⏳ | Gallery Project |
 | ⏳ | React Router DOM Basics |
 | ⏳ | Advanced Routing |
